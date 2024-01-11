@@ -1,4 +1,4 @@
-<h2> Hi, I'm Hailey Thomas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Hailey Thomas! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 <p><em>Power Delivery Intern at <a href="https://www.mississippipower.com/">Mississippi Power</a></br>Student at <a href="https://www.uhcl.edu/">University of Houston - Clear Lake</a> 
 </em></p>
 
@@ -7,7 +7,7 @@
 [![GitHub haileyrthomas01](https://img.shields.io/github/followers/haileyrthomas01?label=follow&style=social)](https://github.com/haileyrthomas01)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+A little more about me...  
 
 ```javascript
 const hailey = {

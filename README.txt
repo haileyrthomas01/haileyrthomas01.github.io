@@ -1,26 +1,35 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<h2> Hi, I'm Hailey Thomas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Power Delivery Intern at <a href="https://www.mississippipower.com/">Mississippi Power</a></br>Student at <a href="https://www.uhcl.edu/">University of Houston - Clear Lake</a> 
+</em></p>
+
+[![Twitter: haileyrt25](https://img.shields.io/twitter/follow/haileyrt25?style=social)]https://x.com/haileyrt25)
+[![Linkedin: haileyrthomas01](https://img.shields.io/badge/-haileyrthomas01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyrthomas01/)](https://www.linkedin.com/in/haileyrthomas01/)
+[![GitHub haileyrthomas01](https://img.shields.io/github/followers/haileyrthomas01?label=follow&style=social)](https://github.com/haileyrthomas01)
 
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+```javascript
+const hailey = {
+  pronouns: "she" | "they",
+  code: [Javascript, Java, HTML, CSS, SQL, Python, R, VHDL],
+  tools: [MongoDB, JupyterLite, Python IDLE, Power BI, Visual Studio, Oracle SQL Developer, RStudio],
+  architecture: ["data-analytics", "data-visualization", "data-modeling"],
+  techCommunities: {
+                        member: "Reach for Her",
+                        member: "ACM",
+                        member: "SWE-HA",
+                        member: "Nation Society for Black Engineers",
+                        ambassador: AdaMarie"
+                      },
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
+```
 Credits:
+
+	Read Only by HTML5 UP
+	html5up.net
+	AJ
+	aj@lkn.io | @ajlkn
 
 	Demo Images:
 		Unsplash (unsplash.com)

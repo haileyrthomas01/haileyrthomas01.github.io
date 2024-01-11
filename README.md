@@ -7,7 +7,7 @@
 [![GitHub haileyrthomas01](https://img.shields.io/github/followers/haileyrthomas01?label=follow&style=social)](https://github.com/haileyrthomas01)
 
 
-A little more about me...  
+### A little more about me...  
 
 ```javascript
 const hailey = {

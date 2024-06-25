@@ -20,6 +20,9 @@ const hailey = {
                         member: "ACM",
                         member: "SWE-HA",
                         member: "Nation Society for Black Engineers",
+			member: "ColorStack",
+			member: "Blacks In Tech - Houston Area",
+			scholar: "Code First Girls",
                         ambassador: AdaMarie"
                       },
 

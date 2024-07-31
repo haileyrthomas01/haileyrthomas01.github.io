@@ -12,8 +12,8 @@
 ```javascript
 const hailey = {
   pronouns: "she" | "they",
-  code: [Javascript, Java, HTML, CSS, SQL, Python, R, VHDL],
-  tools: [MongoDB, JupyterLite, Python IDLE, Power BI, Visual Studio, Oracle SQL Developer, RStudio],
+  code: [Javascript, Java, HTML, SQL, Python, R],
+  tools: [JupyterLite, Python IDLE, Power BI, Visual Studio, Oracle SQL Developer, RStudio],
   architecture: ["data-analytics", "data-visualization", "data-modeling"],
   techCommunities: {
                         member: "Reach for Her",

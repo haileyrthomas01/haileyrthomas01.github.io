@@ -2,7 +2,6 @@
 <p><em>Bachelor's of Science in Computer Science from the <a href="https://www.uhcl.edu/">University of Houston - Clear Lake</a> 
 </em></p>
 
-[![Twitter: haileyrt25](https://img.shields.io/twitter/follow/haileyrt25?style=social)](https://x.com/haileyrt25)
 [![Linkedin: haileyrthomas01](https://img.shields.io/badge/-haileyrthomas01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyrthomas01/)](https://www.linkedin.com/in/haileyrthomas01/)
 [![GitHub haileyrthomas01](https://img.shields.io/github/followers/haileyrthomas01?label=follow&style=social)](https://github.com/haileyrthomas01)
 

@@ -1,4 +1,4 @@
-<h2> Hi, I'm Hailey Thomas! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+<h2> Hi, I'm Hailey! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 <p><em>Bachelor's of Science in Computer Science from the <a href="https://www.uhcl.edu/">University of Houston - Clear Lake</a> 
 </em></p>
 
@@ -16,12 +16,10 @@ const hailey = {
   architecture: ["data-analytics", "data-visualization", "data-modeling"],
   techCommunities: {
                         member: "Reach for Her",
-                        member: "ACM",
                         member: "SWE-HA",
                         member: "Nation Society for Black Engineers",
-			member: "ColorStack",
-			member: "Blacks In Tech - Houston Area",
-			scholar: "Code First Girls",
+						member: "ColorStack",
+						scholar: "Code First Girls",
                         ambassador: AdaMarie"
                       },
 
